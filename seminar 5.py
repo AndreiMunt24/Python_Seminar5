@@ -1,15 +1,15 @@
 # Zadacha 1
 
-def fibonacci(n):
-    if n == 1:
-        return 1
-    if n == 2:
-        return 1
-    return fibonacci(n-1) + fibonacci(n-2)
+# def fibonacci(n):
+#     if n == 1:
+#         return 3
+#     if n == 2:
+#         return 1
+#     return fibonacci(n-1) + fibonacci(n-2)
 
-n = 7
-result = fibonacci(n)
-print(result)  # Output: 21
+# n = 7
+# result = fibonacci(n)
+# print(result)  # Output: 21
 
 
 
